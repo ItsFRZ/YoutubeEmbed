@@ -1,7 +1,8 @@
 # YoutubeEmbed
 Youtube Embed Module
 
-Youtube Youtube Video Embeding module in this module only one
+
+Youtube Video Embeding module in this module only one
 library is used which is already available on github
 
 Module Preview Available Below :
